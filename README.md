@@ -192,3 +192,8 @@ __________
 __________
 - [X] Don't care as I am tired
 
+__________
+Sources:
+[1]: https://data.gov.hk/en-datasets/category/climate-and-weather?order=name&file-content=no
+[2]: https://www.asia-home.com/china/solterms.php
+[3]: https://www.tensorflow.org/tutorials/structured_data/time_series#advanced_autoregressive_model
